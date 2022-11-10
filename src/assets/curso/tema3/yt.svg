@@ -1,0 +1,6 @@
+<svg id="youtube" xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <path id="Trazado_721138" data-name="Trazado 721138" d="M48,64H16A16,16,0,0,1,0,48V16A16,16,0,0,1,16,0H48A16,16,0,0,1,64,16V48A16,16,0,0,1,48,64" transform="translate(0 0)" fill="red" fill-rule="evenodd"/>
+  <path id="Trazado_721139" data-name="Trazado 721139" d="M30,18H48A9,9,0,0,0,48.92.046C48.614.029,48.311,0,48,0H16A16,16,0,0,0,0,16V48A30,30,0,0,1,30,18" transform="translate(0 0)" fill="#ff5a51" fill-rule="evenodd"/>
+  <path id="Trazado_721140" data-name="Trazado 721140" d="M48,32A16,16,0,1,0,64,48V16A16,16,0,0,1,48,32" transform="translate(0 0)" fill="#d5002c" fill-rule="evenodd"/>
+  <path id="Trazado_721141" data-name="Trazado 721141" d="M25.048,17.876A2,2,0,0,0,22,19.579V44.421a2,2,0,0,0,3.048,1.7L45.232,33.7a2,2,0,0,0,0-3.406L25.048,17.876Z" transform="translate(0 0)" fill="#fff" fill-rule="evenodd"/>
+</svg>

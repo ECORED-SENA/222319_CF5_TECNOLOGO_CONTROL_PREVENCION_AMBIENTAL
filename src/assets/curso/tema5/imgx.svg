@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="124" viewBox="0 0 124 124">
+  <g id="Grupo_959097" data-name="Grupo 959097" transform="translate(-180 -520)">
+    <rect id="Rectángulo_340124" data-name="Rectángulo 340124" width="124" height="124" transform="translate(180 520)" fill="#80cab6"/>
+    <g id="muestreo" transform="translate(203 542)">
+      <circle id="Elipse_5674" data-name="Elipse 5674" cx="5.5" cy="5.5" r="5.5" transform="translate(6 15)" fill="#a9aaaa"/>
+      <path id="Trazado_724275" data-name="Trazado 724275" d="M19,22H3V38H5.893L7,51.333h8L16.107,38H19Z" transform="translate(0.333 6.636)" fill="#a9aaaa"/>
+      <path id="Trazado_724276" data-name="Trazado 724276" d="M9,22V51.333h4L14.107,38H17V22Z" transform="translate(2.333 6.636)" fill="#848484"/>
+      <path id="Trazado_724277" data-name="Trazado 724277" d="M14.333,17.333A5.333,5.333,0,0,0,9,12V22.667A5.333,5.333,0,0,0,14.333,17.333Z" transform="translate(2.333 3.303)" fill="#848484"/>
+      <circle id="Elipse_5675" data-name="Elipse 5675" cx="5.5" cy="5.5" r="5.5" transform="translate(67 15)" fill="#a9aaaa"/>
+      <path id="Trazado_724278" data-name="Trazado 724278" d="M65,22H49V38h2.893L53,51.333h8L62.107,38H65Z" transform="translate(15.667 6.636)" fill="#a9aaaa"/>
+      <circle id="Elipse_5676" data-name="Elipse 5676" cx="28" cy="28" r="28" transform="translate(14 3)" fill="#356baa"/>
+      <ellipse id="Elipse_5677" data-name="Elipse 5677" cx="23" cy="22.5" rx="23" ry="22.5" transform="translate(19 9)" fill="#5cccbc"/>
+      <path id="Trazado_724279" data-name="Trazado 724279" d="M4,0A4,4,0,0,1,8,4V16H0V4A4,4,0,0,1,4,0Z" transform="translate(46 80.636) rotate(180)" fill="#bcae73"/>
+      <path id="Trazado_724280" data-name="Trazado 724280" d="M33,49v9.333a4,4,0,0,0,3.76,4A4,4,0,0,1,29,61V49Z" transform="translate(9 15.636)" fill="#7f754a"/>
+      <path id="Trazado_724281" data-name="Trazado 724281" d="M55,22V51.333h4L60.107,38H63V22Z" transform="translate(17.667 6.636)" fill="#848484"/>
+      <path id="Trazado_724282" data-name="Trazado 724282" d="M60.333,17.333A5.333,5.333,0,0,0,55,12V22.667A5.333,5.333,0,0,0,60.333,17.333Z" transform="translate(17.667 3.303)" fill="#848484"/>
+      <path id="Trazado_724283" data-name="Trazado 724283" d="M23,29.667A22.667,22.667,0,0,1,41.667,7.373a23.24,23.24,0,0,0-4-.373,22.667,22.667,0,1,0,0,45.333,23.24,23.24,0,0,0,4-.373A22.667,22.667,0,0,1,23,29.667Z" transform="translate(4.333 1.636)" fill="#3eb5a7"/>
+      <ellipse id="Elipse_5678" data-name="Elipse 5678" cx="5" cy="5.5" rx="5" ry="5.5" transform="translate(37 10)" fill="#f4f4f2"/>
+      <path id="Trazado_724284" data-name="Trazado 724284" d="M42,18H26V34h2.893L30,47.333h8L39.107,34H42Z" transform="translate(8 5.303)" fill="#f4f4f2"/>
+      <path id="Trazado_724285" data-name="Trazado 724285" d="M32,18V47.333h4L37.107,34H40V18Z" transform="translate(10 5.303)" fill="#dbdbdb"/>
+      <path id="Trazado_724286" data-name="Trazado 724286" d="M37.333,13.333A5.333,5.333,0,0,0,32,8V18.667A5.333,5.333,0,0,0,37.333,13.333Z" transform="translate(10 1.97)" fill="#dbdbdb"/>
+      <path id="Trazado_724287" data-name="Trazado 724287" d="M3.333,45.97H5L6,58.076A1.333,1.333,0,0,0,7.333,59.3h8a1.333,1.333,0,0,0,1.333-1.227l.88-10.6a29.333,29.333,0,0,0,23.12,13.16V63.3H38a1.333,1.333,0,0,0-1.333,1.333v12a5.333,5.333,0,1,0,10.667,0v-12A1.333,1.333,0,0,0,46,63.3H43.333V60.636a29.333,29.333,0,0,0,23.12-13.12l.88,10.56A1.333,1.333,0,0,0,68.667,59.3h8A1.333,1.333,0,0,0,78,58.076L79,45.97h1.667A1.333,1.333,0,0,0,82,44.636v-16A1.333,1.333,0,0,0,80.667,27.3H71.053v-.227a6.76,6.76,0,0,0,1.613.227,6.667,6.667,0,1,0-5.333-10.667,29.333,29.333,0,0,0-50.667,0A6.667,6.667,0,1,0,11.333,27.3a6.76,6.76,0,0,0,1.64-.227V27.3H3.333A1.333,1.333,0,0,0,2,28.636v16A1.333,1.333,0,0,0,3.333,45.97ZM44.667,76.636a2.667,2.667,0,0,1-5.333,0V65.97h5.333ZM79.333,29.97V43.3h-1.56A1.333,1.333,0,0,0,76.44,44.53l-1,12.107H69.893l-1-12.107a1.333,1.333,0,0,0-.347-.76A29.147,29.147,0,0,0,71.333,31.3c0-.453,0-.893,0-1.333ZM72.667,16.636a4,4,0,0,1,0,8,3.854,3.854,0,0,1-2.28-.747A31.04,31.04,0,0,0,68.853,19.5a4,4,0,0,1,3.813-2.867ZM42,4.636A26.667,26.667,0,1,1,15.333,31.3,26.667,26.667,0,0,1,42,4.636Zm-30.667,20A4,4,0,1,1,15.147,19.5a31.039,31.039,0,0,0-1.533,4.387,3.853,3.853,0,0,1-2.28.747ZM4.667,29.97h8V31.3A29.147,29.147,0,0,0,15.453,43.77a1.333,1.333,0,0,0-.347.76l-1,12.107H8.56l-1-12.107A1.333,1.333,0,0,0,6.227,43.3H4.667Z" transform="translate(0 0)"/>
+      <path id="Trazado_724288" data-name="Trazado 724288" d="M40.333,13.667a6.667,6.667,0,1,0-6.667,6.667A6.667,6.667,0,0,0,40.333,13.667Zm-6.667,4a4,4,0,1,1,4-4A4,4,0,0,1,33.667,17.667Z" transform="translate(8.333 1.636)"/>
+      <path id="Trazado_724289" data-name="Trazado 724289" d="M26.333,35.667H28l1,12.107A1.333,1.333,0,0,0,30.333,49h8a1.333,1.333,0,0,0,1.333-1.227l1-12.107h1.667a1.333,1.333,0,0,0,1.333-1.333v-16A1.333,1.333,0,0,0,42.333,17h-16A1.333,1.333,0,0,0,25,18.333v16A1.333,1.333,0,0,0,26.333,35.667Zm1.333-16H41V33H39.44a1.333,1.333,0,0,0-1.333,1.227l-1,12.107H31.56L30.547,34.227A1.333,1.333,0,0,0,29.213,33H27.667Z" transform="translate(7.667 4.97)"/>
+      <path id="Trazado_724290" data-name="Trazado 724290" d="M14,24A23.907,23.907,0,0,0,30.947,46.96l.773-2.56A21.24,21.24,0,0,1,16.667,24Z" transform="translate(4 7.303)"/>
+      <path id="Trazado_724291" data-name="Trazado 724291" d="M51.763,29.74H54.43A23.907,23.907,0,0,0,37.483,6.78L36.71,9.34a21.24,21.24,0,0,1,15.053,20.4Z" transform="translate(11.57 1.563)"/>
+      <path id="Trazado_724292" data-name="Trazado 724292" d="M14,20h2.667v2.667H14Z" transform="translate(4 5.97)"/>
+      <path id="Trazado_724293" data-name="Trazado 724293" d="M48,26h2.667v2.667H48Z" transform="translate(15.333 7.97)"/>
+      <g id="Grupo_958765" data-name="Grupo 958765" transform="translate(21.391 15.998)">
+        <ellipse id="Elipse_5679" data-name="Elipse 5679" cx="3.387" cy="1.667" rx="3.387" ry="1.667" transform="matrix(0.586, -0.81, 0.81, 0.586, 0, 5.486)" fill="#f7f7f7"/>
+        <circle id="Elipse_5680" data-name="Elipse 5680" cx="1.337" cy="1.337" r="1.337" transform="matrix(0.987, -0.16, 0.16, 0.987, 0.66, 7.573)" fill="#f7f7f7"/>
+      </g>
+    </g>
+  </g>
+</svg>
