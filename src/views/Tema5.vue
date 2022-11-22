@@ -82,7 +82,7 @@
             |  Se percibe solo por un sentido: el Oído, lo cual hace subestimar su efecto.
           li 
             i.fas.fa-angle-right
-            |  Es complejo de medir y cuantificar.
+            |  Tiene un efecto acumulativo en el hombre.
     .col-lg-2.colora2.p-1.mt-4
       h4.text-white.mb-0.text-center Decibelio (dB):
     p.mt-2 “El decibelio es una unidad logarítmica de medida utilizada en diferentes disciplinas de la ciencia usada para comparar una cantidad con otra llamada de referencia”.
@@ -221,6 +221,7 @@
     .row.align-items-center.p-3.colort510
       .col-lg-7
         p “Es el estudio de la atmósfera y sus fenómenos – especialmente las condiciones del tiempo y del clima – y las aplicaciones prácticas de este estudio. Además de la física, la química y la dinámica de la atmósfera, la meteorología abarca muchos de los efectos directos de la atmósfera en la superficie de la Tierra, los océanos y vida en general” 
+        p Tomado de: ORGANIZACIÓN METEOROLÓGICA MUNDIAL. IV Edicion (2001)..Directivas de orientación la enseñanza y formaciónprofesional del personal en meteorología e hidrología operativa.(p.137). http://www.ideam.gov.co/documents/290086/75945771/Documento+OMM+258+Vol+I/9449f806-2438-4602-bcd0-940e2334621f
       .col-lg-5
         img(src='@/assets/curso/tema5/img20.svg', alt='Texto que describa la imagen')
     p.mt-3  Para poder entender la meteorologia  es necesario comprender sus conceptos claves como lo son:
@@ -248,6 +249,7 @@
                 th.text-center 1. Atmósfera
                 th.text-center 760 mm de hg 
                 th.text-center 1012.25 mb /hpa
+            figcaption Adaptación:   Cárdenas, J. (2020).Conversión Unidades Atmosféricas
           p.mt-2 La unidad de medida de la Presión atmosférica se establece en diferentes unidades dependiendo el sistema unidades empleado, algunas de las equivalencias más utilizadas son:
           .tabla-b.color-acento-contenido.mb-5
             .tabla-b__header
@@ -309,11 +311,14 @@
                 td.text-center 0,102
                 td.text-center 0,145
                 td.text-center.bgt3 1
+            figcaption adaptado de: cronicaseguridad.com(s,f).Equivalencia entre unidades de presión.https://cronicaseguridad.com/wp-content/uploads/2017/07/Captura-3-480x268.jpg
+
           .row.justify-content-center.mt-4
             .col-lg-10
               .row.p-3.fonblanco
                 .col-lg-6
                   p 1 atm = 1bar = 1kg / cm2 = 10 mia = 100KPa
+                  p Equivalencias
                   ul.lista-ul--color
                     li 
                       i.fas.fa-angle-right
@@ -337,6 +342,7 @@
           p.mt-2 La unidad con la que se determina la temperatura se establece en diferentes unidades dependiendo el sistema unidades empleado, algunas de las equivalencias más utilizadas son:
           .row.justify-content-center
             .col-lg-10
+              p Tabla de Corversión de unidades de Temperatura
               img(src='@/assets/curso/tema5/img22.svg', alt='Texto que describa la imagen')
           .col-lg-2.mt-4
             img.wid1(src='@/assets/curso/tema5/viento.svg', alt='Texto que describa la imagen')
@@ -418,12 +424,12 @@
           .col-lg-4
             img(src='@/assets/curso/tema5/img23.svg', alt='Texto que describa la imagen')
           .col-lg-8
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=6byHmIPy2AA" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Conversión de Unidades de Temperatura, Celsius, Kelvin y Fahrenheit.
-            a.anexo.mb-4.mb-lg-0.mt-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0.mt-3(href="https://www.youtube.com/watch?v=HiR2ClQuH_E" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -454,6 +460,7 @@
     #t_5_3.titulo-segundo.color-acento-contenido
       h2 5.3 Cartografia
     p Cartografía es la ciencia que se encarga del estudio y de la elaboración de mapas para representar grandes extensiones del territorio, buscando una relación matemática en la que las deformaciones sean reconocibles.
+    p (Agrim. Rosario,2012, Algunos conceptos sobre: Cartografía y SIG,Uruguay,GTIG)
     p Para poder entender la cartografía es necesario comprender sus conceptos claves como lo son:
     .row.justify-content-center
       .col-lg-10
@@ -519,7 +526,7 @@
           .col-lg-1
             img(src='@/assets/curso/tema3/1.svg', alt='Texto que describa la imagen')
           .col-lg-11
-            h5 ¡Repasemos lo aprendido!
+            h5 ¿Sabías qué?
             p.mb-0 Antes de hablar de mapas, sabías que uno de los mapas más antiguos cuenta con 16,500 años de antigüedad, es uno de los primeros mapas de ruta que muestra cómo viajar alrededor de las curvas del río Nilo creado en el 1160aC. 
     .col-lg-1.colora2.p-2.mt-4
       h4.text-white.mb-0.text-center Mapas
@@ -532,8 +539,10 @@
             .row
               .col-md-6.mb-4.mb-md-0
                 h4 Mapas pequeña escala
-                p “Está escala se expresa mediante una fracción que indica la relación entre la distancia medida de dos puntos en el mapa (numerador) y la correspondiente en el terreno (denominador) de modo directo entre unidades del sistema, de esta manera 1/60.000.000 indica que una unidad medida en el mapa equivale a 60 millones de unidades medidas en la realidad” (Conceptos Cartograficos, 2012, p.10)
-            
+                p “Son los mapas que representan amplias zonas de la superficie terrestre, por lo que es imprescindible tener en cuenta la esfericidad de la Tierra. En estos mapas el nivel de detalle es pequeño”
+                p Usualmente la escala es menor de 1:100.000. 
+                p.mb-0 Instituto Geográfico Nacional.(s,f).Conceptos Cartográficos.p.11.  
+                p https://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto<br>/descargas/Conceptos_Cartograficos_def.pdf
               .col-md-6
                 figure
                   img(src='@/assets/curso/tema5/img25.png', alt='Texto que describa la imagen')
@@ -575,7 +584,7 @@
             img(src='@/assets/curso/tema3/1.svg', alt='Texto que describa la imagen')
           .col-lg-11
             h5 ¡Para tener en cuenta!
-            p.mb-0 Txt14 ¿Sabe cómo se calcula la escala de un mapa? aquí se lo explicamos. Para determinar la escala de un mapa o plano con escala desconocida debemos:
+            p.mb-0 ¿Sabe cómo se calcula la escala de un mapa? aquí se lo explicamos. Para determinar la escala de un mapa o plano con escala desconocida debemos:
           .row.justify-content-center.mt-4
             .col-lg-8
               .row
@@ -610,12 +619,12 @@
           .col-lg-4
             img(src='@/assets/curso/tema5/za.svg', alt='Texto que describa la imagen')
           .col-lg-8
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=NLaV_O3dLpk" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p  ¡El mundo no es como lo pintan! - CuriosaMente 77.
-            a.anexo.mb-4.mb-lg-0.mt-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0.mt-3(href="https://www.youtube.com/watch?v=-mQtkt33xig " target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

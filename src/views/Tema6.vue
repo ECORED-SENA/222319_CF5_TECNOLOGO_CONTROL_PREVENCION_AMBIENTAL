@@ -5,8 +5,8 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Etapa en la toma de muestras.
-    p Estimado aprendiz!  En esta sección de la Unidad Temática 3 continuaremos viendo cuales son las principales etapas que se realizan en la toma de muestras que se hacen en campo, las cuales garantizan la trazabilidad y custodia de la muestra en este proceso.
+      h1 Etapa en la toma de muestras
+    p <strong>¡Estimado aprendiz!</strong>  En esta sección de la <strong>Unidad Temática 3</strong> continuaremos viendo cuales son las principales etapas que se realizan en la toma de muestras que se hacen en campo, las cuales garantizan la trazabilidad y custodia de la muestra en este proceso.
     h5.text-center Las etapas de toma de muestras en campo son:
     .row
       .col-lg-4
@@ -26,7 +26,7 @@
           .col-lg-4
             img(src='@/assets/curso/tema5/imgx3.svg', alt='Texto que describa la imagen')
           .col-lg-8.colorazx
-            p.text-center.mt-4 Realizar un plan de muestreo.
+            p.text-center.mt-4 Realizar un plan de muestreo
     .row
       .col-lg-4
         .row.p-2
@@ -45,7 +45,7 @@
           .col-lg-4
             img(src='@/assets/curso/tema5/zzz3.svg', alt='Texto que describa la imagen')
           .col-lg-8.colorazx
-            p.text-center.mt-4 Transporte.
+            p.text-center.mt-4 Transporte
     p.mt-4 Se revisarán las Etapas 3, 4, 5 y 6 las cuales se enfocan en la toma de muestras y la cadena de custodia. Para esta metodología de ejecución en la toma de muestras, se tomará como referencia las normativas:
     separador
     #t_6_1.titulo-segundo.color-acento-contenido
@@ -85,8 +85,8 @@
 
           .tarjeta.color-primario1
             .p-4
-              h4.text-center Protocolo
-              p.text-center Para la medición de emisión de ruido, ruido ambiental y realización de mapas de ruido
+              h4.text-center Resolución
+              p.text-center 1541 de 2013
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema5/p2.svg' alt='AvatarTop')
@@ -94,7 +94,7 @@
           .tarjeta.color-primario1
             .p-4
               h4.text-center Normas
-              p.text-center NTC 3522
+              p.text-center NTC 6012-1
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
           img(src='@/assets/curso/tema5/p3.svg' alt='AvatarTop')
@@ -102,7 +102,7 @@
           .tarjeta.color-primario1
             .p-4
               h4.text-center Resolución:
-              p.text-center 626 de 2006
+              p.text-center para el monitoreo, control y vigilancia de olores ofensivos.
 </template>
 
 <script>

@@ -19,6 +19,8 @@
             | En esta sección vamos a conocer cuáles son los principales peligros y cómo valorar los riesgos en las actividades de campo a nivel ambiental bienvenidos teniendo como referente la guía técnica colombiana GTC-45 2012 Guía para la identificación de peligros y valoración de riesgos.
       .col-lg-5
         img(src='@/assets/curso/tema3/img2.png', alt='Texto que describa la imagen')
+    
+    p.mb-4 Visualice el siguiente video para saber más: 
     .row.justify-content-center
       .col-lg-10
         .tarjeta.color-primario.p-4.mb-5
@@ -31,7 +33,7 @@
                   h3.mb-1 Lengua entretiene (2019, agosto 23)
                   p.text-small Si crees que te levantaste con el pie izquierdo mira a estas 20 personas. 
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=yE9jichnric')" target="_blank")
                     span Ver
                     i.fas.fa-link
     separador
@@ -134,7 +136,7 @@
                     h3.mb-1 Lengua entretiene (2019, agosto 23)
                     p.text-small Si crees que te levantaste con el pie izquierdo mira a estas 20 personas. 
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=OL6BRmN4UH0')" target="_blank")
                       span Ver
                       i.fas.fa-link
     separador
@@ -158,11 +160,12 @@
                     h3.mb-1 Lengua entretiene (2019, agosto 23)
                     p.text-small Si crees que te levantaste con el pie izquierdo mira a estas 20 personas. 
                   .col-sm-auto
-                    a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=77sTYR3sX5E')" target="_blank")
                       span Ver
                       i.fas.fa-link
-    .row.justify-content-center
+    .row.justify-content-center.mt-2
       .col-lg-10.bg2.p-4
+        p.mt-2 De acuerdo con lo visto se puede sintetizar el peligro como:
         .row.mb-5.mt-5
           .col-md-6.col-lg.mb-5.mb-lg-0
             .tarjeta-avatar
@@ -201,13 +204,14 @@
         .row.justify-content-center.mt-5
           .col-lg-3
             img(src='@/assets/curso/tema3/img8.png' alt='AvatarTop')
+            p.text-center.mt-2 Fuente Propia : Cárdenas (2010) La Relación del Peligro
     .row.mt-4.justify-content-center
       .col-lg-10
         .row.p-3.colorn.align-items-center
           .col-lg-1
             img(src='@/assets/curso/tema3/1.svg', alt='Texto que describa la imagen')
           .col-lg-11
-            h5 Sabías que ! 
+            h5 ¡ Sabías que ! 
             p.mb-0 Que la Guía Técnica Colombiana GTC 45 se basa en principios fundamentales de la norma NTC-OHSAS 18001, hoy (ISO 45001) y en el proceso de gestión del riesgo desarrollado en la norma BS 8800 (British Standard) 
             p Fuente: GTC45:2012
     separador
@@ -293,6 +297,7 @@
                     li 
                       i.fas.fa-check
                       |  Bilógico  
+      p.text-center.mt-2 Fuente Propia :Cardenas,j(2020)clasificación de los Peligros
     p Teniendo en cuenta la información anterior podríamos definir que los peligros originan un accidente laboral y otros dan origen a lo que conocemos como una enfermedad laboral. En la siguiente tabla correspondiente al anexo A de la GTC 45. Resume los diferentes peligros dependiendo de su categorización.
     .row.justify-content-center
       .col-lg-10
@@ -347,6 +352,7 @@
         .row.p-4.azqa
           p <strong>Para determinar</strong> el ND se puede utilizar la Tabla 2 de la GTC 45, a continuación:
           img(src='@/assets/curso/tema3/x.svg' alt='AvatarTop')
+        figcaption.mt-2 Fuente: ICONTEC (2012) GTC45  Tabla2 Determinacion del nivel de deficiencia.p 13.
     .row.mt-4.justify-content-center
       .col-lg-10
         .row.p-3.colorn.align-items-center
@@ -354,7 +360,7 @@
             img(src='@/assets/curso/tema3/1.svg', alt='Texto que describa la imagen')
           .col-lg-11
             h5 ¡Para tener en cuenta! 
-            p.mb-0 Es importante resaltar que el peligro siempre va a existir en el ámbito laboral, mientras que el riesgo que se deriva del peligro es un factor que se puede controlar y se puede valorar.
+            p.mb-0 Es importante resaltar que el <strong>peligro</strong> siempre va a existir en el ámbito laboral, mientras que el riesgo que se deriva del peligro es un factor que se puede controlar y se puede valorar.
 </template>
 
 <script>

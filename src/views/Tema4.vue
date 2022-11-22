@@ -9,7 +9,7 @@
     img(src='@/assets/curso/tema4/1.jpg', alt='Texto que describa la imagen')
     separador
     #t_4_1.titulo-segundo.color-acento-contenido
-      h2 4.1 Métodos clásicos
+      h2 4.1 Introducción
     .row
       .col-lg-6
         img(src='@/assets/curso/tema4/2.jpg', alt='Texto que describa la imagen')
@@ -22,7 +22,7 @@
       h4.text-white.mb-0 Capacitación y SST en muestreo
     p.mt-3 Uno de los ejes estratégicos para realizar un proceso de toma y tratamiento de muestras acorde a la normatividad es el recurso humano que realizará esa función, el cual debe contar con las habilidades y competencias necesarias, estas mismas son definidas dentro de un instrumento de planeación denominado plan de capacitación. 
     .col-lg-3.colora2.p-1.mt-4
-      h4.text-white.mb-0 Formación y evaluación. 
+      h4.text-white.mb-0 Formación y evaluación
     figure.mt-4.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -81,7 +81,7 @@
                   h3.mb-1 ¿Qué son los equipos de protección PERSONAL?.
                   p.text-small https://www.youtube.com/watch?v=G8jZvB_fl9Y
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=G8jZvB_fl9Y')" target="_blank")
                     span Ver
                     i.fas.fa-link
     p Definir que son los elementos de protección personal, es importante en este ambiente laboral, los EPP se definen como “todo equipo, aparato o dispositivo especialmente proyectado y fabricado para preservar el cuerpo humano, en todo o en parte, de riesgos específicos de accidentes del trabajo o enfermedades profesionales”. 
@@ -97,7 +97,7 @@
                   h3.mb-1 Programa de elementos de protección personal, uso y mantenimiento p.3 
                   p.text-small MINSALUD.(2017)
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro(:href="('https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf')" target="_blank")
                     span Ver
                     i.fas.fa-link
         p.text-center.ro https://www.minsalud.gov.co/Ministerio/Institucional/Procesos%20y%20procedimientos/GTHS02.pdf     

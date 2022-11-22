@@ -7,6 +7,8 @@
         span 8
       h1 Toma de muestra de olores y ruido
     img(src='@/assets/curso/tema8/img1.jpg', alt='Texto que describa la imagen')
+    Audio.color-secundario.mx-3(:audio="require('@/assets/componentes/audios/audio-ej.mp3')")
+
     #t_8_1.titulo-segundo.color-acento-contenido.mt-4
       h2 8.1 Partes del oído humano
     p El oído Humano es el encargado de recibir las ondas de presión sonora, en este se encuentra dividido en tres partes oído interno, oído medio y oído externo.
@@ -16,7 +18,7 @@
           .col-md-12.mb-5.mb-md-0
 
             LineaTiempoD.color-secundario
-              p(numero="1" titulo="Oído interno") “Es una compleja estructura interna del oído que comunica directamente con el nervio acústico. Transmite las vibraciones sonoras desde el oído medio a través del líquido de los conductos semicirculares (órgano del equilibrio), que se unen al vestíbulo, conectado con la cóclea (órgano de la audición). Consta de dos partes: el laberinto óseo y el laberinto membranoso.“
+              p(numero="1" titulo="Oído interno") “Es una compleja estructura interna del oído que comunica directamente con el nervio acústico. Transmite las vibraciones sonoras desde el oído medio a través del líquido de los conductos semicirculares (órgano del equilibrio), que se unen al vestíbulo, conectado con la cóclea (órgano de la audición). Consta de dos partes: el laberinto óseo y el laberinto membranoso.“<br><br>Tomado de: CORPOCALDAS.(2015)  Mediciones de ruido ambiental y elaboración del plan de descontaminación por ruido en villamaría, caldas.(p.22)
               p(numero="2" titulo="Oído medio") “Está formado por la Cavidad timpánica y por el yunque, martillo y estribo, se articulan entre sí y con la membrana timpánica. Las ondas sonoras se transmiten a través de ellos cuando vibra el tímpano”
               p(numero="3" titulo="Oído externo")  “Es la estructura externa constituida por la oreja y el conducto auditivo externo. Las ondas sonoras son conducidas a través del oído externo hasta el oído medio”.
       .col-lg-6
@@ -153,14 +155,14 @@
             h5 ¡Reflexionemos!
 
             p.mb-0 ¡El ruido molesto!  aunque no lo veamos es considerado un contaminante que afecta de manera importante nuestra salud. ¡Lo invito a que observe este video en el que nos resume lo visto en este espacio! 
-            a.anexo.mb-4.mb-lg-0.mt-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0.mt-3(href="https://www.youtube.com/watch?time_continue=75&v=IM4DZDB9ZQo&feature=emb_logo" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Día Internacional de la Conciencia sobre el Ruido
     separador
-    #t_8_6.titulo-segundo.color-acento-contenido
-      h2 8.6 Medición de ruido                  
+    #t_8_5.titulo-segundo.color-acento-contenido
+      h2 8.5 Medición de ruido                  
     img(src='@/assets/curso/tema8/img7.jpg', alt='Texto que describa la imagen')
     p.mt-4 Es importante diferenciar que la medición del ruido que se va a realizar debe establecer un alcance, puesto que el Ruido Ambiental se mide teniendo en cuenta un área determinada por su impacto (Parques, Zonas Residenciales, Hospitales, entre otros), en cambio la medición por Emisión de Ruido se mide siempre y cuando está relacionada con la generación de ruido que puede generar una empresa o proyecto.
     .col-lg-5.colora2.p-2.mt-4
@@ -207,7 +209,7 @@
           .col-md-12.mb-5.mb-md-0
 
             LineaTiempoD.color-primario
-              p(numero="5" titulo="Otro instrumento que también es importante ") “Es una compleja estructura interna del oído que comunica directamente con el nervio acústico. Transmite las vibraciones sonoras desde el oído medio a través del líquido de los conductos semicirculares (órgano del equilibrio), que se unen al vestíbulo, conectado con la cóclea (órgano de la audición). Consta de dos partes: el laberinto óseo y el laberinto membranoso.“
+              p(numero="5" titulo="Otro instrumento que también es importante ") Otro instrumento que también es importante verificar es el GPS el cual determina por coordenadas la ubicación del sitio a medir es importante que no haya desviaciones en el equipo de más de 3 metros dependiendo de la recepción de los satélites que tenga incluido dentro de sus configuraciones.
               p(numero="6" titulo="Al momento de descargar") Al momento de descargar los datos que recibe el sonómetro es importante verificar tanto el software cómo la interface que se emplea para descargar los datos ya que es importante almacenar esta información una vez terminado en muestreo. 
               p(numero="7" titulo="El transporte y la manipulación") El transporte y la manipulación de los equipos durante el proceso de carga es importante verificar que el embalaje sea seguro y específico para los equipos que se van a llevar a cabo a campo. (incluye maletines, cajas, embalajes, etc)
               p(numero="8" titulo="También es importante verificar ")  También es importante verificar los elementos de protección personal qué debe tener presente el personal encargado de la medición debido a que los riesgos y peligros presentes en los diversos sitios se deben tener en cuenta para evitar accidentes.
@@ -267,7 +269,7 @@
         .row.justify-content-center.mb-3
           .col-11
             img(src='@/assets/curso/tema8/img20.png' alt='AvatarTop')
-        h4.text-center.mb-1.mt-3 Computador o Interfase de sonómetro.
+        h4.text-center.mb-1.mt-3 Computador o Interfase de sonómetro
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-center.mb-3
           .col-11
@@ -366,6 +368,7 @@
     #t_8_10.titulo-segundo.color-acento-contenido
       h2 8.10 Selección de los puntos de medición
     p Antes de realizar el muestreo se debe planificar previamente cuál va a ser la ubicación del sitio objeto de medición, se debe tener en cuenta aquellas estructuras o edificaciones que se van a medir especialmente la fuente emisora del ruido.
+    p Sin embargo, podría tenerse en cuenta las siguientes condiciones la elección de los puntos que se van a medir.
     img(src='@/assets/curso/tema8/img24.svg', alt='Texto que describa la imagen')
     separador
     #t_8_11.titulo-segundo.color-acento-contenido
@@ -406,9 +409,9 @@
 
       .col-lg-6
         .row.p-5.colort82
-          p <strong>Es importante</strong> cuando se realice la medición en el día o en la noche tener presente que las condiciones en donde el proyecto o la empresa esté funcionando con la mayor intensidad de ruido con el fin de medir en las condiciones reales de operación de la fuente.
-          p Se deben realizar por punto (2) procesos de medición de una hora de captura de información o a intervalos de 15 minutos.
-          p Una Medición (con la fuente de emisión operando en su máximo nivel de producción o de emisión de ruido) 
+          p * <strong>Es importante</strong> cuando se realice la medición en el día o en la noche tener presente que las condiciones en donde el proyecto o la empresa esté funcionando con la mayor intensidad de ruido con el fin de medir en las condiciones reales de operación de la fuente.
+          p * Se deben realizar por punto (2) procesos de medición de una hora de captura de información o a intervalos de 15 minutos.
+          p * Una Medición (con la fuente de emisión operando en su máximo nivel de producción o de emisión de ruido) 
       
     .row.mt-2.align-items-center
       .col-lg-6
@@ -416,7 +419,7 @@
 
       .col-lg-6
         .row.p-5.colort82
-          p.mb-0.mt-5 <strong>Una Medición</strong>  (con la fuente de emisión en condiciones neutras de operación o mejor dicho sin la emisión de ruido generado)
+          p.mb-0.mt-5 * <strong>Una Medición</strong>  (con la fuente de emisión en condiciones neutras de operación o mejor dicho sin la emisión de ruido generado)
           p.mb-5 Todo esto, con el fin de determinar el ruido residual.
     p.mt-3 En caso de presentarse ruidos que no pertenezca a la operación directa de la fuente como (pitos, altavoces, sirenas, perifoneos, etc) estos no deberán ser tenidos en cuenta y la información debe ser relacionada en el informe técnico.
     separador
@@ -637,6 +640,7 @@
       h2 8.18 El olfato
     p El olfato es uno de los sentidos más importantes que tiene el ser humano, el olfato es encargado de detectar y procesar los olores que están presentes en el aire,
     p Todos estos olores penetran por la nariz, específicamente acceden por sus fosas nasales y llegan a la cavidad nasal, donde las células receptoras al detectar este olor los transmite al bulbo olfatorio como impulsos (https://www.partesdel.com) los cuales se encargan de enviar señales al cerebro para interprete esta sensación en un olor.
+    p A continuación, lo invitamos a que amplíe esta información visualizando el siguiente video este video.
     .row.justify-content-center
       .col-lg-10
         .tarjeta.color-primario.p-4.mb-5
@@ -649,7 +653,7 @@
                   h3.mb-1 El Olfato y los Olores en el Ambiente
                   p.text-small www.youtube.com/watch?v=PFbwvC-hrqY
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-negro(:href="('www.youtube.com/watch?v=PFbwvC-hrqY')" target="_blank")
+                  a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=PFbwvC-hrqY')" target="_blank")
                     span Ver
                     i.fas.fa-link
     separador
@@ -694,7 +698,7 @@
                 LineaTiempoD.color-secundario
                   p(numero="1" titulo="OLOR:")  “propiedad organoléptica perceptible por el órgano olfativo cuando inspira determinadas sustancias volátiles.” (Resolución 1541 de 2013)
                   p(numero="2" titulo="OLOR OFENSIVO:")  “es el olor generado por sustancias o actividades industriales, comerciales o de servicio, que produce fastidio, aunque no cause daño a la salud humana”. (Decreto 948 de1995)
-                  p(numero="3" titulo="Emisión")  Realizar calibración acústica del sonómetro con el pistofono antes de iniciar la medición.
+                  p(numero="3" titulo="Emisión") “transferencia de contaminantes de la atmósfera a un receptor. Se entiende por inmisión la acción opuesta a la emisión. Aire inmiscible es el aire respirable al nivel de la tropósfera”. (Decreto 948 de 1995)
                   p(numero="4" titulo="SUSTANCIA DE OLOR OFENSIVO:")   “es aquella que, por sus propiedades organolépticas, composición y tiempo de exposición puede causar olores desagradables”. (Resolución 1541 de 2013)
                   p(numero="5" titulo="EMISIÓN:")   “transferencia de contaminantes de la atmósfera a un receptor. Se entiende por inmisión la acción opuesta a la emisión. Aire inmiscible es el aire respirable al nivel de la tropósfera”. (Decreto 948 de 1995)
                                                       
@@ -775,7 +779,7 @@
       .col-lg-6
         p En la tabla de sustancias de olores ofensivos por actividad resolución 1541 de 2013 se dónde se clasifican actividades y sectores que aportan contaminación por olores ofensivos.
         p Es importante no solamente conocer las actividades de generan los olores sino también, identificar cuáles son las sustancias que lo producen, estas sustancias se pueden encontrar en la corriente de aire en forma gaseosa o líquida, también en los recursos hídricos y en el suelo.
-        p Es importante no solamente conocer las actividades de generan los olores sino también, identificar cuáles son las sustancias que lo producen, estas sustancias se pueden encontrar en la corriente de aire en forma gaseosa o líquida, también en los recursos hídricos y en el suelo.
+        p A nivel internacional se han clasificado actividades como las principales generadoras de olores ofensivos y por esta razón explicaremos particularmente su incidencia en la generación de olores ofensivos, que se visualizan en la tabla de aspectos ambientales de las sustancias asociadas a olores ofensivos.
       .col-lg-6
         img(src='@/assets/curso/tema8/img43.png', alt='Texto que describa la imagen')
     p.mt-4 <strong>Tabla 1.</strong> Sustancias de olores ofensivos por actividad
@@ -881,7 +885,7 @@
             h5 ¡Dato curioso!
             p Sabias que el Sentido del olfato es tan poderoso que hoy en día se usa algo conocido como marketing olfativo para generar un estado de ánimo con aromas e incentivar alguna acción de consumo.
 
-            a.anexo.mb-4.mb-lg-0.mt-3(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0.mt-3(href="https://blog.seccionamarilla.com.mx/10-datos-sobre-el-olfato-y-los-aromas/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -892,25 +896,7 @@
     p Un olor que en principio es agradable cuando es percibido con tanta intensidad puede convertirse en molesto, es por eso que el concepto de olor ofensivo también se vuelve muy subjetivo, debido a que los olores dependen específicamente de la intensidad o fuerza y de la concentración en aire del compuesto(s) que lo origina.
     p Así como el ruido, las vibraciones y la luz, el olor es considerado un estresor ambiental. Según la Organización Mundial de la Salud (OMS) “La salud es un estado de completo bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades”. Así la molestia por olor afecta la calidad de vida de las personas. (Fuente: https://olores.mma.gob.cl/efectos-en-salud/)
     p Algunos estudios señalan que los olores pueden afectar al estado psíquico de las personas, influyendo negativamente sobre su estado anímico y pudiendo provocar situaciones de estrés, por esta razón, el olor es considerado un contaminante. Fuente: https://olores.mma.gob.cl/efectos-en-salud/)
-    .row.justify-content-center.mt-4
-      .col-lg-10
-        .tabla-b.color-acento-contenido.mb-5
-          .tabla-b__header
-            .row
-              .col-lg-4
-                h4 Intensidad
-              .col-lg-8
-                h4 Fuerza de la sensación percibida
-          table
-            tr
-              th Calidad
-              td Carácter diferenciador y grado de parecido de un olor.
-            tr
-              th Aceptabilidad
-              td Grado de gusto o disgusto de una sensación de olor.
-            tr
-              th Umbral de olor
-              td Concentración minima de un estimulo odorífico capaz de provocar un respuesta.
+
     p En resumen, algunos síntomas negativos provocados por la molestia de olor son:
     .row.justify-content-center
       .col-lg-8
@@ -944,7 +930,7 @@
     p La OMS señala que algunas sustancias tienen propiedades malolientes en concentraciones muy por debajo de aquellas en las que ocurren efectos tóxicos. Así para la evaluación de efectos sensoriales se han identificado tres umbrales: detección, reconocimiento y molestia.
     separador
     #t_8_24.titulo-segundo.color-acento-contenido
-      h2 8.24 Efectos de los olores ofensivos en la salud humana
+      h2 8.24 Procedimiento para la medición de olores ofensivos
     p Para la medición de olores ofensivos la resolución 627 del año 2006 establece como referencia el protocolo para la medición de olores ofensivos en el cual establecen los procedimientos y caracterización de olores, en esta sección veremos las condiciones generales de la medición en campo en olores ofensivos.
     h5.mb-0 Caracterización 
     p Para caracterizar los olores ofensivos se pueden aplicar dos técnicas: las sensoriales y las analíticas.  en esta sección realizaremos una descripción de las técnicas para su posterior selección dependiendo la fuente y el área de influencia afectada.
@@ -954,7 +940,7 @@
       .col-lg-10
         .row.colort82.p-3.justify-content-center.mt-4
           h4 Las siguientes técnicas son las más empleadas en las mediciones de olores ofensivos.
-          p.mt-3 Olfatometría Dinámica
+          p.mt-3 <strong>Olfatometría Dinámica</strong>
           p “En esta técnica Se emplea el olfato humano como medio de captura y sensor de olor de esta manera se establece una metodología para la determinación del olor de una muestra gaseosa usando un panel panelistas como sensores para posteriormente determinar la emisión. El objetivo primordial de un estudio olfatométrico es evaluar si las emisiones de una determinada instalación pueden ser responsables o no de quejas en la población vecina. A esta conclusión se llega con la interpretación de los valores de concentración de inmisión, habitualmente denominados mapas de olores.” (Lineamiento de Vigilancia Amb., No. 485/10, 2012 p. 33).
     .row.justify-content-center.mt-3
       .col-lg-9.colora2.p-2.mt-4

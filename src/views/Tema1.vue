@@ -22,7 +22,7 @@
           span.az <strong>Los grados de significación y fiabilidad de la información a obtener en la muestra es de gran prioridad, para evitar alteraciones en los resultados sea por mala toma de la muestra o mala preservación de esta</strong>
           | , por eso es importante que la adecuación del muestreo debe estar a las peculiares características ambientales de cada sitio. 
         p Esto es así porque dependiendo del muestreo, el valor estadístico obtenido para cada contaminante reflejará con mayor o menor precisión el valor real existente en el sitio. Por tanto, la selección del procedimiento de muestreo es crucial, y de él depende en gran medida que las decisiones tomadas sobre un medio sea agua, suelo o aire potencialmente alterado en su calidad sean eficaces para abordar y solucionar su problemática.        
-    p.mt-3 En esta unidad temática se desarrollará 12 contenidos virtuales para tener bases concretas en el proceso de toma de muestras en olores y ruido, las actividades que se desarrollaran están contenidas en el siguiente temario:
+    p.mt-3 <strong>En esta unidad temática</strong> se desarrollará 12 contenidos virtuales para tener bases concretas en el proceso de toma de muestras en olores y ruido, las actividades que se desarrollaran están contenidas en el siguiente temario:
     .row.justify-content-center
       .col-lg-10
         .row.p-4.bg11

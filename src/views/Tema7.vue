@@ -66,8 +66,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Programa de elementos de protección personal, uso y mantenimiento p.3 
-                  p.text-small MINSALUD.(2017)
+                  h3.mb-1 ¡Estimado Aprendiz!
+                  p.text-small Para profundizar en el tema lo invitamos a consultar en <strong>MATERIAL DE APOYO /Cárdenas, J (2020) Formato Plan de Muestreo RUIDO.</strong>
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-negro(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
                     span Ver
@@ -175,6 +175,9 @@
     h5.mt-3 Procesos con emisiones discontinuas o no homogéneas.
     p Es importante definir la selección de las siguientes variables
     .row.p-3.colort76.align-items-center
+      p.mb-0 El objetivo último de un estudio olfatométrico es evaluar si las emisiones de una determinada instalación pueden ser responsables o no de quejas en la población vecina. A esta conclusión se llega con la interpretación de los valores de concentración de inmisión, habitualmente denominados mapas de olores.
+      p (Calidad Ambiental (2008) Fundamentos Básicos C.A.O, p.8)
+
       .col-lg-5
         img(src="@/assets/curso/tema7/img6.svg")
 
