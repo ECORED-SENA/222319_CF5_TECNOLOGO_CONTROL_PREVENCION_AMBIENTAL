@@ -15,7 +15,6 @@
       .col-lg-4.p-4
         img(src='@/assets/curso/imgi.svg', alt='Texto que describa la imagen')
 
-    p En este componente formativo se caracterizará el estado ambiental de una zona de estudio en sus factores ambientales agua, suelo, olores y ruido, como insumo para realizar un diagnóstico ambiental adecuado, para ello es necesario realizar la toma de muestras que permitirá obtener la información requerida de las condiciones de calidad de un medio.
 
 </template>
 

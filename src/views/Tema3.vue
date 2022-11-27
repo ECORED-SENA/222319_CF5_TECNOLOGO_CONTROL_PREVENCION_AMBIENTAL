@@ -63,7 +63,10 @@
           .tarjeta.color-acento-botones--borde.p-4(titulo="Elemento de Protección Personal")
             h4 Elemento de Protección Personal
             p Dispositivo que sirve como barrera entre un peligro y alguna parte del cuerpo de una persona. (ICONTEC (2012) GTC 45 p.2)
-            p Equipo de protección personal: Dispositivo que sirve como medio de protección ante un peligro y que para su funcionamiento requiere de la interacción con otros elementos. Ejemplo, sistema de detección contra caídas. (ICONTEC (2012) GTC 45 p.2)
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Equipo de protección personal")
+            h4 Equipo de protección personal
+            p Dispositivo que sirve como medio de protección ante un peligro y que para su funcionamiento requiere de la interacción con otros elementos. Ejemplo, sistema de detección contra caídas. (ICONTEC (2012) GTC 45 p.2)
+        
     .row.bg1
       separador
       #t_3_3.titulo-segundo.color-acento-contenido
@@ -133,8 +136,8 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h3.mb-1 Lengua entretiene (2019, agosto 23)
-                    p.text-small Si crees que te levantaste con el pie izquierdo mira a estas 20 personas. 
+                    h3.mb-1 CASAFE Cámara (2018, noviembre 9)
+                    p.text-small Riesgo vs Peligro.
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=OL6BRmN4UH0')" target="_blank")
                       span Ver
@@ -157,8 +160,8 @@
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
-                    h3.mb-1 Lengua entretiene (2019, agosto 23)
-                    p.text-small Si crees que te levantaste con el pie izquierdo mira a estas 20 personas. 
+                    h3.mb-1 ABAKCALCULADORAS (2010, noviembre 12)
+                    p.text-small Medición de caudal con calculadora y molinete.
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-negro(:href="('https://www.youtube.com/watch?v=77sTYR3sX5E')" target="_blank")
                       span Ver

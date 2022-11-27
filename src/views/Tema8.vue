@@ -19,8 +19,8 @@
 
             LineaTiempoD.color-secundario
               p(numero="1" titulo="Oído interno") “Es una compleja estructura interna del oído que comunica directamente con el nervio acústico. Transmite las vibraciones sonoras desde el oído medio a través del líquido de los conductos semicirculares (órgano del equilibrio), que se unen al vestíbulo, conectado con la cóclea (órgano de la audición). Consta de dos partes: el laberinto óseo y el laberinto membranoso.“<br><br>Tomado de: CORPOCALDAS.(2015)  Mediciones de ruido ambiental y elaboración del plan de descontaminación por ruido en villamaría, caldas.(p.22)
-              p(numero="2" titulo="Oído medio") “Está formado por la Cavidad timpánica y por el yunque, martillo y estribo, se articulan entre sí y con la membrana timpánica. Las ondas sonoras se transmiten a través de ellos cuando vibra el tímpano”
-              p(numero="3" titulo="Oído externo")  “Es la estructura externa constituida por la oreja y el conducto auditivo externo. Las ondas sonoras son conducidas a través del oído externo hasta el oído medio”.
+              p(numero="2" titulo="Oído medio") “Está formado por la Cavidad timpánica y por el yunque, martillo y estribo, se articulan entre sí y con la membrana timpánica. Las ondas sonoras se transmiten a través de ellos cuando vibra el tímpano”<br><br>Tomado de : CORPOCALDAS.(2015)  Mediciones de ruido ambiental y elaboración del plan de descontaminación por ruido en villamaría, caldas (p.22).
+              p(numero="3" titulo="Oído externo")  “Es la estructura externa constituida por la oreja y el conducto auditivo externo. Las ondas sonoras son conducidas a través del oído externo hasta el oído medio”.<br><br>Tomado de : CORPOCALDAS.(2015)  Mediciones de ruido ambiental y elaboración del plan de descontaminación por ruido en villamaría, caldas (p.22).
       .col-lg-6
         img(src='@/assets/curso/tema8/img2.svg', alt='Texto que describa la imagen')
     .row.mt-4.justify-content-center
@@ -434,22 +434,22 @@
               p Sonido con una intensidad alta que interfiere en la comunicación entre las personas o en sus actividades (dormir, leer, descansar, etc.) y que puede resultar incluso perjudicial para la salud humana. (Protocolo ruido ambiental UM/MADS)
           .row.justify-content-center(titulo="dB(A):")
             .col-md-10.mb-4.mb-md-0
-              p Sonido con una intensidad alta que interfiere en la comunicación entre las personas o en sus actividades (dormir, leer, descansar, etc.) y que puede resultar incluso perjudicial para la salud humana. (Protocolo ruido ambiental UM/MADS)
+              p Unidad de medida de nivel sonoro con ponderación frecuencial (A). (Res 627/2006)
           .row.justify-content-center(titulo="Decibel (dB): ")
             .col-md-10.mb-4.mb-md-0
-              p Sonido con una intensidad alta que interfiere en la comunicación entre las personas o en sus actividades (dormir, leer, descansar, etc.) y que puede resultar incluso perjudicial para la salud humana. (Protocolo ruido ambiental UM/MADS)
+              p Décima parte del Bel, razón de energía, potencia o intensidad que cumple con la siguiente expresión: Log R = 1dB/10 Donde R= razón de energía, potencia o intensidad (Res 627/2006)
           .row.justify-content-center(titulo="Emisión de Ruido:  ")
             .col-md-10.mb-4.mb-md-0
-              p Sonido con una intensidad alta que interfiere en la comunicación entre las personas o en sus actividades (dormir, leer, descansar, etc.) y que puede resultar incluso perjudicial para la salud humana. (Protocolo ruido ambiental UM/MADS)
+              p Es la presión sonora que, generada en cualesquiera condiciones, trasciende al medio ambiente o al espacio público. (Res 627/2006)
           .row.justify-content-center(titulo="Filtros de Tercios de Octava ")
             .col-md-10.mb-4.mb-md-0
-              p Sonido con una intensidad alta que interfiere en la comunicación entre las personas o en sus actividades (dormir, leer, descansar, etc.) y que puede resultar incluso perjudicial para la salud humana. (Protocolo ruido ambiental UM/MADS)
+              p dispositivo que permite efectuar análisis de una la señal acústica, en bandas de tercios de octava. (Res 627/2006)
           .row.justify-content-center(titulo="Leq")
             .col-md-10.mb-4.mb-md-0
-              p Sonido con una intensidad alta que interfiere en la comunicación entre las personas o en sus actividades (dormir, leer, descansar, etc.) y que puede resultar incluso perjudicial para la salud humana. (Protocolo ruido ambiental UM/MADS)
+              p Nivel sonoro continuo equivalente, es el nivel en dBA de un ruido constante hipotético correspondiente a la misma cantidad de energía acústica que el ruido real considerado, en un punto determinado durante un período de tiempo T.( Res 627/2006)
           .row.justify-content-center(titulo="Norma de emisión de ruido")
             .col-md-10.mb-4.mb-md-0
-              p Sonido con una intensidad alta que interfiere en la comunicación entre las personas o en sus actividades (dormir, leer, descansar, etc.) y que puede resultar incluso perjudicial para la salud humana. (Protocolo ruido ambiental UM/MADS)
+              p Es el valor máximo permisible de presión sonora, definido para una fuente, por la autoridad ambiental competente, con el objeto de cumplir la norma de ruido ambiental. (Res 627/2006)
                                                                  
       .col-lg-6
         img(src='@/assets/curso/tema8/img29.jpg', alt='Texto que describa la imagen')
@@ -927,7 +927,7 @@
                 i.fas.fa-angle-right.colorclaro
                 p  Otros
     p.mt-3 Algunos de estos efectos dependen de la dosis y pueden aumentar con el tiempo.
-    p La OMS señala que algunas sustancias tienen propiedades malolientes en concentraciones muy por debajo de aquellas en las que ocurren efectos tóxicos. Así para la evaluación de efectos sensoriales se han identificado tres umbrales: detección, reconocimiento y molestia.
+    p La OMS señala que algunas sustancias tienen propiedades malolientes en concentraciones muy por debajo de aquellas en las que ocurren efectos tóxicos. Así para la evaluación de efectos sensoriales se han identificado tres umbrales: <strong>detección, reconocimiento y molestia.</strong>
     separador
     #t_8_24.titulo-segundo.color-acento-contenido
       h2 8.24 Procedimiento para la medición de olores ofensivos

@@ -36,7 +36,7 @@
           img(src='@/assets/curso/tema4/img1.jpg', alt='Texto que describa la imagen')
         .col-lg-7
           h5 Personal con experiencia en comunidades.
-          p La NTC 6012-1 establece que el aseguramiento de la calidad de los datos se logra aplicando los criterios y requisitos establecidos previamente, en tal sentido, la planificación y ejecución de la encuesta debe realizarse por personal que tenga experiencia interactuando con comunidades y que tenga claridad en los objetivos de la evaluación que se realizará a través de la encuesta quienes no necesariamente deben ser profesionales del área de las ciencias sociales.(Protocolo Olores Ofensivos p.12)
+          p La NTC 6012-1 establece que el aseguramiento de la calidad de los datos se logra aplicando los criterios y requisitos establecidos previamente, en tal sentido, la planificación y ejecución de la encuesta debe realizarse <strong>por personal que tenga experiencia interactuando con comunidades</strong> y que tenga claridad en los objetivos de la evaluación que se realizará a través de la encuesta quienes no necesariamente deben ser profesionales del área de las ciencias sociales.(Protocolo Olores Ofensivos p.12)
           p  <strong>Identificación del personal responsable:</strong> Es muy útil identificar las personas encargadas de desarrollar las acciones del plan de olores molestos, sus tareas específicas y el momento en que ellas son terminadas. (Protocolo Olores Ofesivos p.52)
     .row.mt-4.p-4.colorazq2
       h4 Ruido.
@@ -67,7 +67,7 @@
     separador
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2 Los elementos de protección personal (EPP)
-    p En la realización del trabajo de campo ambiental para las mediciones tanto de Ruido como de Olores Ofensivos, es importante que el personal que vaya a ejecutar las diferentes labores en la toma de muestras tenga presente los equipos de protección personal que debe emplear para así reducir los riesgos a los que está expuesto en el campo de trabajo.
+    p En la realización del trabajo de campo ambiental para las mediciones tanto de <strong>Ruido</strong> como de <strong>Olores Ofensivos</strong>, es importante que el personal que vaya a ejecutar las diferentes labores en la toma de muestras tenga presente los equipos de protección personal que debe emplear para así reducir los riesgos a los que está expuesto en el campo de trabajo.
     p Para ampliar la información visualice el siguiente video.
     .row.justify-content-center
       .col-lg-10
@@ -119,7 +119,7 @@
                   .col-lg-1
                     img(src='@/assets/curso/tema3/1.svg', alt='Texto que describa la imagen')
                   .col-lg-11
-                    p.mb-0 ¡Para tener en cuenta! La vida útil de un casco debe ser aproximadamente de 10 años dentro del almacén y dos años de uso a partir de la fecha de entrega, por ellos debe registrarse la fecha de entrada al trabajador o puede grabarse en el casco. El diseño en general debe cumplir normas nacionales colombiana NTC1523 e internacional de Calidad Certificada ANSI Z89.1. ”.
+                    p.mb-0 <strong>¡Para tener en cuenta!</strong> La vida útil de un casco debe ser aproximadamente de 10 años dentro del almacén y dos años de uso a partir de la fecha de entrega, por ellos debe registrarse la fecha de entrada al trabajador o puede grabarse en el casco. El diseño en general debe cumplir normas nacionales colombiana NTC1523 e internacional de Calidad Certificada ANSI Z89.1. ”.
                     p (EPP uso y mantenimiento MINSALUD P. 4)           
               .col-md-4.marn
                 figure

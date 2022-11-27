@@ -214,7 +214,7 @@
             img(src='@/assets/curso/tema3/1.svg', alt='Texto que describa la imagen')
           .col-lg-11
             h5 Sabías que ! 
-            p.mb-0 Bayes, Thomas Clérigo inglés de la primera mitad del siglo XVIII (1702-1761) Es uno de los padres y precursores de la estadística.
+            p.mb-0 <strong>Bayes, Thomas</strong> Clérigo inglés de la primera mitad del siglo XVIII (1702-1761) Es uno de los padres y precursores de la estadística.
     separador
     #t_5_2.titulo-segundo.color-acento-contenido
       h2 5.2 Meteorología
@@ -334,6 +334,7 @@
                       |  1 atm = 14,696 PSI
                 .col-lg-4
                   img(src='@/assets/curso/tema5/img21.svg', alt='Texto que describa la imagen')
+                p Tomado de: mendezfrank.(s,f).contenidos.https://mendezfrank.wordpress.com/primer-corte/contenidos/
           .col-lg-2.mt-4
             img.wid1(src='@/assets/curso/tema5/hot.svg', alt='Texto que describa la imagen')
           .col-lg-10.mt-4
@@ -553,7 +554,8 @@
                 h4 Mapas de gran escala
                 p.mb-0 “Son los que representan pequeñas zonas de la Tierra. En estos mapas el detalle de los elementos cartografiados es mayor”
                 p Usualmente la escala mayor de 1:10.000 
-            
+                p Usualmente la escala mayor de 1:10.000 
+                p Tomado de:Instituto Geográfico Nacional.(s,f).Conceptos Cartográficos.p.11.  https://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto/<br>descargas/Conceptos_Cartograficos_def.pdf
               .col-md-6
                 figure
                   img(src='@/assets/curso/tema5/img26.png', alt='Texto que describa la imagen')
@@ -563,7 +565,7 @@
               .col-md-6.mb-4.mb-md-0
                 h4 Mapas topográficos
                 p.mb-0 “Un mapa topográfico o de propósito general es el que representa gráficamente los principales elementos que conforman la superficie terrestre, como vías de comunicación, hidrografía, relieve, con una precisión adecuada a la escala”. 
-            
+                p Tomado de:Instituto Geográfico Nacional.(s,f).Conceptos Cartográficos.p.11.  https://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto<br>/descargas/Conceptos_Cartograficos_def.pdf
               .col-md-6
                 figure
                   img(src='@/assets/curso/tema5/img27.png', alt='Texto que describa la imagen')
@@ -573,7 +575,7 @@
               .col-md-6.mb-4.mb-md-0
                 h4 Mapas temáticos
                 p.mb-0 “Un mapa temático o de propósito particular es aquel cuyo objetivo es localizar características o fenómenos particulares. El contenido puede variar: desde información histórica, política, hasta fenómenos naturales como la vegetación o la geología”. 
-
+                p Tomado de:Instituto Geográfico Nacional.(s,f).Conceptos Cartográficos.p.11.  https://www.ign.es/web/resources/cartografiaEnsenanza/conceptosCarto<br>/descargas/Conceptos_Cartograficos_def.pdf
               .col-md-6
                 figure
                   img(src='@/assets/curso/tema5/img28.png', alt='Texto que describa la imagen')
